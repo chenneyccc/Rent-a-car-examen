@@ -7,6 +7,7 @@
 
 
 
+
                 <div class="jumbotron p-3 p-md-5 text-white rounded bg-dark">
                     <div class="col-md-6 px-0">
                         <h1 class="display-4 font-italic">Chenney Chang Portfolio</h1>
@@ -23,12 +24,12 @@
                       <div class="card flex-md-row mb-4 box-shadow h-md-250">
                          <div class="card-body d-flex flex-column align-items-start">
                            <h3 class="mb-0">
-                            <a class="text-primary" href="#"> Beroepsexamen</a>
+                            <a class="text-primary" href="{{ url('/beroepsexamen') }}"> Beroepsexamen</a>
                                 </h3>
                     <div class="mb-1 text-muted">Portfolio</div>
                                     <p class="card-text mb-auto">Hier krijgt u informatie te zien over mijn beroepsexamen. Over hoe me beroepsexamen
                                     eruit zag en hoe me eindproduct eruit ziet.</p>
-                                    <a href="#"> Lees Meer...</a>
+                                    <a href="{{ url('/beroepsexamen') }}"> Lees Meer...</a>
                     </div>
                             <img class="card-img-right flex-auto d-none d-md-block" style="height: 250px; width: 200px"
                                  src="../img/examen.jpg" alt="Card image cap">
@@ -72,6 +73,7 @@
                         <img class="card-img-right flex-auto d-none d-md-block" style="height: 250px; width: 200px"
                              src="../img/htmlcss.jpg" alt="Card image cap">
                     </div>
+
                 </div>
 
 
@@ -84,7 +86,12 @@
                                 <div class="mb-1 text-muted">Portfolio</div>
                                 <p class="card-text mb-auto">Hier krijgt u meer informatie te zien over mijn projecten waarbij ik Javascript hebt gebruikt.
                                 </p>
-                                <a href="#"> Lees Meer...</a>
+
+                                <a href="{{ url('/java') }}"> Lees Meer...</a>
+
+                                <div class="d-flex justify-content-between align-items-center">
+                                </div>
+
                             </div>
                             <img class="card-img-right flex-auto d-none d-md-block" style="height: 250px; width: 200px"
                                  src="../img/java-logo.png" alt="Card image cap">
@@ -104,11 +111,12 @@
                             <div class="mb-1 text-muted">Portfolio</div>
                             <p class="card-text mb-auto">Hier krijgt u meer informatie te zien over mijn projecten waarbij ik Javascript hebt gebruikt.
                             </p>
-                            <a href="#">Lees Meer...</a>
+                            <a href="{{ url('/javascript') }}">Lees Meer...</a>
                         </div>
                         <img class="card-img-right flex-auto d-none d-md-block" style="height: 250px; width: 200px"
                              src="../img/javascript.jpg" alt="Card image cap">
                     </div>
+
                 </div>
 
 
@@ -117,12 +125,12 @@
                         <div class="card flex-md-row mb-4 box-shadow h-md-250">
                             <div class="card-body d-flex flex-column align-items-start">
                                 <h3 class="mb-0">
-                                    <a class="text-info" href="#"> PHP</a>
+                                    <a class="text-info" href="{{ url('/php') }}"> PHP</a>
                                 </h3>
                                 <div class="mb-1 text-muted">Portfolio</div>
                                 <p class="card-text mb-auto">Hier krijgt u meer informatie te zien over mijn projecten waarbij ik PHP hebt gebruikt.
                                 </p>
-                                <a href="#"> Lees Meer...</a>
+                                <a href="{{ url('/php') }}"> Lees Meer...</a>
                             </div>
                             <img class="card-img-right flex-auto d-none d-md-block" style="height: 250px; width: 200px"
                                  src="../img/php.png" alt="Card image cap">
@@ -132,6 +140,9 @@
 
                 </div>
             </div>
+        </div>
+        </div>
+    </main>
 
 
 
