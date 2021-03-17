@@ -15,7 +15,7 @@
                                                 en meer informatie over mezelf vertellen.</p>
                         <p class="lead mb-0"><a href="{{ url('/about') }}" class="text-white font-weight-bold">Lees hier meer over mij...</a></p>
                         <img class="rounded-circle" style="margin-left: 600px; margin-top: -300px; height: 300px; width: 300px  "
-                             src="../img/homefoto.jpg" alt="Generic placeholder image" width="140" height="140">
+                             src="../img/Homefoto.jpg" alt="Generic placeholder image" width="140" height="140">
                </div>
                 </div>
 
