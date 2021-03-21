@@ -33,7 +33,7 @@
                             <div class="col-lg-6">
                                 <ul>
                                     <li><i class="icofont-rounded-right"></i> <strong>Volledige naam:</strong> Chenney Chang</li>
-                                    <li><i class="icofont-rounded-right"></i> <strong>School: ROC Almere Buiten</strong> </li>
+                                    <li><i class="icofont-rounded-right"></i> <strong>School:</strong> ROC Almere Buiten</li>
                                     <li><i class="icofont-rounded-right"></i> <strong>Telefoonnummer:</strong> 0640080859</li>
                                     <li><i class="icofont-rounded-right"></i> <strong>Woonplaats:</strong> City : Nederland, Almere</li>
                                 </ul>
