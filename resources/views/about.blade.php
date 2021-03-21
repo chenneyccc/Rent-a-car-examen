@@ -35,14 +35,14 @@
                                     <li><i class="icofont-rounded-right"></i> <strong>Volledige naam:</strong> Chenney Chang</li>
                                     <li><i class="icofont-rounded-right"></i> <strong>School:</strong> ROC Almere Buiten</li>
                                     <li><i class="icofont-rounded-right"></i> <strong>Telefoonnummer:</strong> 0640080859</li>
-                                    <li><i class="icofont-rounded-right"></i> <strong>Woonplaats:</strong> City : Nederland, Almere</li>
+                                    <li><i class="icofont-rounded-right"></i> <strong>Woonplaats:</strong> Nederland, Almere</li>
                                 </ul>
                             </div>
                             <div class="col-lg-6">
                                 <ul>
                                     <li><i class="icofont-rounded-right"></i> <strong>Leeftijd:</strong> 18</li>
                                     <li><i class="icofont-rounded-right"></i> <strong>Opleiding:</strong> Software Developer</li>
-                                    <li><i class="icofont-rounded-right"></i> <strong>E-mail:</strong>chenneyccc@outlook.com </li>
+                                    <li><i class="icofont-rounded-right"></i> <strong>E-mail:</strong> Chenneyccc@outlook.com </li>
                                     <li><i class="icofont-rounded-right"></i> <strong>Hobby's:</strong> Muziek, Voetbal</li>
                                 </ul>
                             </div>
